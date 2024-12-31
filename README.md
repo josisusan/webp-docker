@@ -17,3 +17,8 @@ convert image to webp:
 ```
 cwebp -q 50 <source_image_path> -o <destination_image_path>
 ```
+
+exit container:
+```
+exit
+```
