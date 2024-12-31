@@ -10,10 +10,10 @@ Mount the volume (directory) for the images (`./images` folder in above example)
 ## Inside tty run following command:
 man page:
 ```
-# cwebp --help
+cwebp --help
 ```
 
 convert image to webp:
 ```
-# cwebp -q 50 <source_image_path> -o <destination_image_path>
+cwebp -q 50 <source_image_path> -o <destination_image_path>
 ```
